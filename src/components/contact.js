@@ -25,3 +25,12 @@ function Contact() {
                                     nhchan22@gmail.com
                                 </a>
                             </p>
+
+                            <p>
+                                <a href="https://github.com/nchan22" target='_blank'>
+                                    <span className="pr-3">
+                                        <FaGithub />
+                                    </span>
+                                    nchan22
+                                </a>
+                            </p>
