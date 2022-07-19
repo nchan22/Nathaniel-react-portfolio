@@ -89,6 +89,23 @@ const Resume = () => {
                                 </div>
                             </div>
 
+                            <div className="modal-footer" />
+
+                            <div className='card-body'>
+                                <div className="row">
+                                    <div className='code'>Quality Assurance</div>
+                                </div>
+
+                                <div className='grid-container-skills'>
+                                    <div className='grid-item-skills'>
+                                        <p className='p-about'>Jest</p>
+                                    </div>
+
+                                    <div className='grid-item-skills'>
+                                        <p className='p-about'>Test Driven Development (TDD) & Object Oriented Development (OOD)</p>
+                                    </div>
+                                </div>
+                            </div>
 
 
 
