@@ -123,17 +123,22 @@ const Resume = () => {
 
                 <div className="grid-container-skills">
                   <div className="grid-item-skills">
-                    <p className="p-about">
-                      Time Management and Constant Updating
-                    </p>
+                    <p className="p-about">Time Management</p>
+                  </div>
+
+                  <div className="grid-item-skills">
+                    <p className="p-about">Consistent Updater</p>
                   </div>
 
                   <div className="grid-item-skills">
                     <p className="p-about">Team Leader</p>
-                    <ul>
-                      <li>Active Communicator</li>
-                      <li>Active Listener</li>
-                    </ul>
+                  </div>
+                  <div className="grid-item-skills">
+                    <p className="p-about">Active Communicator</p>
+                  </div>
+
+                  <div className="grid-item-skills">
+                    <p className="p-about">Active Listener</p>
                   </div>
                 </div>
               </div>
