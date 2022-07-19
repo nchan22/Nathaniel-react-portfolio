@@ -12,3 +12,11 @@ function Navbar() {
                     ABOUT
                 </NavLink>
             </div>
+            <div className='topnav-right'>
+                <NavLink
+                    activeClassName="navbar__link--active"
+                    className="navbar__link"
+                    to="/portfolio"
+                >
+                    PORTFOLIO
+                </NavLink>
