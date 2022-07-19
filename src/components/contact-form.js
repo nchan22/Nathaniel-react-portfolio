@@ -36,3 +36,35 @@ function ContactForm() {
       console.log(error.text);
       setFormMessage("Your message couldn't be sent. Please email Nathaniel directly at nhchan22@gmail.com");
     });
+}
+
+return (
+    <Form onSubmit={sendEmail} id="contactForm">
+      <Form.Group controlId="name">
+        <Form.Label>Your Name</Form.Label>
+        <Form.Control required name="name" placeholder="Jane Doe" onBlur={handleChange} />
+      </Form.Group>
+
+      <Form.Group controlId="email">
+        <Form.Label>Your Email</Form.Label>
+        <Form.Control required name="email" type="email" placeholder="jdoe@gmail.com"  onBlur={handleChange} />
+      </Form.Group>
+
+      <Form.Group controlId="subject">
+        <Form.Label>Subject</Form.Label>
+        <Form.Control required name="subject" placeholder="Subject" onBlur={handleChange} />
+      </Form.Group>
+
+      <Form.Group controlId="message">
+        <Form.Label>Message</Form.Label>
+        <Form.Control required name="message" as="textarea" rows="5" placeholder="Message" onBlur={handleChange} />
+      </Form.Group>
+
+      {formMessage && <p className="form-message">{formMessage}</p>}
+
+      <Button type="submit" className='btn'>Submit</Button>
+    </Form>
+  )
+};
+
+export default ContactForm;
