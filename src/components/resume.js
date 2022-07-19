@@ -12,6 +12,32 @@ const Resume = () => {
                                 </h3>
                             </div>
 
+                            <div className="modal-footer"/>
+
+                            <div className="header">
+                                <h3>Skills</h3>
+                            </div>
+                            <div className="modal-footer"/>
+
+                            <div className='card-body'>
+                                <div className="row">
+                                    <div className='code'>Open Minded and Critical Thinking</div>
+                                </div>
+                                <div className='grid-container-skills'>
+                                    <div className='grid-item-skills'>
+                                        <p className='p-about'>Fast Learner</p>
+                                    </div>
+
+                                    <div className='grid-item-skills'>
+                                        <p className='p-about'>Excellent Communicator</p>
+                                    </div>
+
+                                    <div className='grid-item-skills'>
+                                        <p className='p-about'>Design Patterns</p>
+                                    </div>
+                                </div>
+                            </div>
+
 
 
 
