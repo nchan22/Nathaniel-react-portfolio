@@ -106,10 +106,11 @@ const Resume = () => {
                   </div>
 
                   <div className="grid-item-skills">
-                    <p className="p-about">
-                      Test Driven Development (TDD) & Object Oriented
-                      Development (OOD)
-                    </p>
+                    <p className="p-about">Test Driven Development (TDD)</p>
+                  </div>
+
+                  <div className="grid-item-skills">
+                    <p className="p-about">Object Oriented Development (OOD)</p>
                   </div>
                 </div>
               </div>
