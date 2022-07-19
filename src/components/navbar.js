@@ -20,3 +20,10 @@ function Navbar() {
                 >
                     PORTFOLIO
                 </NavLink>
+                <NavLink
+                    activeClassName="navbar__link--active"
+                    className="navbar__link"
+                    to="/contact"
+                >
+                    CONTACT
+                </NavLink>
