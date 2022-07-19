@@ -10,3 +10,18 @@ function Contact() {
                   </div>
               </Container>
           </Jumbotron>
+
+          <Container fluid className="shadow bg-light mb-5">
+            <Container className="p-4">
+                <Row>
+                    <Col>
+                        <Container>
+                            <h4 style={{color: "#F06543"}}>Contact Info</h4>
+                            <p>
+                                <a href="mailto:nhchan22@gmail.com">
+                                    <span className="pr-3">
+                                        <FaEnvelope />
+                                    </span>
+                                    nhchan22@gmail.com
+                                </a>
+                            </p>
