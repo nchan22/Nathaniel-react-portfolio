@@ -1,4 +1,8 @@
 import React from "react";
+import portfolio from "../data";
+import ProjectCards from "../components/project";
+import "../App.css";
+import "../portfolio.css";
 
 const Portfolio = () => {
   return (
