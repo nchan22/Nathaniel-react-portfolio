@@ -1,9 +1,9 @@
 import React from "react";
 // Add a profile picture to the images
-// import Avatar from ../
+import Avatar from "../assets/images/coming-soon.png";
 import UofTLogo from "../assets/images/uoft_logo.jpeg";
 import UWLogo from "../assets/images/uw_logo.png";
-import "../app.css";
+import "../App.css";
 
 const About = () => {
   return (
@@ -14,7 +14,11 @@ const About = () => {
             <div className="card">
               <div className="card-body">
                 <div className="row abstract-back ">
-                  <img className="avatar" src={Avatar} />
+                  <img
+                    className="avatar"
+                    src={Avatar}
+                    alt="picture to be added"
+                  />
                 </div>
               </div>
 
@@ -49,7 +53,11 @@ const About = () => {
                       href="https://bootcamp.learn.utoronto.ca"
                       target="_blank"
                     >
-                      <img className="university-logo" src={UofTLogo} />
+                      <img
+                        className="university-logo"
+                        src={UofTLogo}
+                        alt="university of toronto logo"
+                      />
                     </a>
                   </div>
 
@@ -62,7 +70,11 @@ const About = () => {
 
                   <div className="grid-item">
                     <a href="https://uwaterloo.ca" target="_blank">
-                      <img className="university-logo" src={UWLogo} />
+                      <img
+                        className="university-logo"
+                        src={UWLogo}
+                        alt="university of waterloo logo"
+                      />
                     </a>
                   </div>
                 </div>
