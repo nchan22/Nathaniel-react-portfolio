@@ -1,7 +1,7 @@
 import React from "react";
 // Add a profile picture to the images
 import Avatar from "../assets/images/coming-soon.png";
-import UofTLogo from "../assets/images/uoft_logo.jpeg";
+import UofTLogo from "../assets/images/uoft-logo2.png";
 import UWLogo from "../assets/images/uw_logo.png";
 import "../App.css";
 
