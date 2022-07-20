@@ -3,7 +3,6 @@ import ReactDOM from "react-dom/client";
 import "./index.css";
 import App from "./App";
 import * as serviceWorker from "./serviceworker";
-import { HashRouter as Router } from "react-router-dom";
 import "bootstrap/dist/css/bootstrap.css";
 import ParticlesBg from "particles-bg";
 import reportWebVitals from "./reportWebVitals";
