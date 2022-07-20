@@ -1,6 +1,6 @@
 # Nathaniel Chan's Portfolio
 
-### Deployment Link: https://nchan22.github.io/a-react-portfolio-of-mine/\
+### Deployment Link: https://nchan22.github.io/a-react-portfolio-of-mine/
 
 ### Screenshot:
 ![image](https://user-images.githubusercontent.com/98130524/180051485-c9e292ac-1e6e-403f-bb28-fb8269916f99.png)
