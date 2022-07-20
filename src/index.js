@@ -12,18 +12,11 @@ const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
     <App />
+    <ParticlesBg type="square" bg={true} />
   </React.StrictMode>
 );
 
 // https://reactjsexample.com/react-particles-animation-background-component/
-
-ReactDOM.render(
-  <Router>
-    <App />
-    <ParticlesBg type="square" bg={true} />
-  </Router>,
-  document.getElementById("root")
-);
 
 // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.
