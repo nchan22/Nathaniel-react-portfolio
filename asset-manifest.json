@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/a-react-portfolio-of-mine/static/css/main.3b34a00b.css",
-    "main.js": "/a-react-portfolio-of-mine/static/js/main.ad8f086a.js",
+    "main.css": "/a-react-portfolio-of-mine/static/css/main.060c67bb.css",
+    "main.js": "/a-react-portfolio-of-mine/static/js/main.cb3d293e.js",
     "static/js/787.8c6b66da.chunk.js": "/a-react-portfolio-of-mine/static/js/787.8c6b66da.chunk.js",
     "static/media/uw_logo.png": "/a-react-portfolio-of-mine/static/media/uw_logo.4f899ab4e8198a3ba480.png",
     "static/media/coming-soon.png": "/a-react-portfolio-of-mine/static/media/coming-soon.c00d5b37cdb7a92d83bb.png",
+    "static/media/uoft-logo2.png": "/a-react-portfolio-of-mine/static/media/uoft-logo2.a6666ba7c2ba212014d2.png",
     "static/media/trip-it.jpg": "/a-react-portfolio-of-mine/static/media/trip-it.757001ab370d5c64377a.jpg",
     "static/media/abstract-background-2.jpg": "/a-react-portfolio-of-mine/static/media/abstract-background-2.4cdc6462cca664b2bc3e.jpg",
     "static/media/track-your-spending.jpg": "/a-react-portfolio-of-mine/static/media/track-your-spending.f118ae10ed237740b128.jpg",
@@ -14,18 +15,18 @@
     "static/media/password-generator.jpg": "/a-react-portfolio-of-mine/static/media/password-generator.1636a53c8b1b47af073f.jpg",
     "static/media/mongodb-logo.png": "/a-react-portfolio-of-mine/static/media/mongodb-logo.6693219727f6045d56b6.png",
     "static/media/leaf-it-to-me.jpg": "/a-react-portfolio-of-mine/static/media/leaf-it-to-me.c1c19ba472b49e2433e3.jpg",
+    "static/media/abstract-background.jpg": "/a-react-portfolio-of-mine/static/media/abstract-background.7b132b86a0f187c64a93.jpg",
     "static/media/sql-logo.png": "/a-react-portfolio-of-mine/static/media/sql-logo.8c53f46599d600c84b79.png",
     "static/media/webpack-logo.png": "/a-react-portfolio-of-mine/static/media/webpack-logo.5bd3fd1235bbc91c2bc8.png",
     "static/media/logo.png": "/a-react-portfolio-of-mine/static/media/logo.2d7f77f8a92b6787acab.png",
-    "static/media/uoft_logo.jpeg": "/a-react-portfolio-of-mine/static/media/uoft_logo.28bd9e44321abd355826.jpeg",
     "static/media/bootstrap-logo.png": "/a-react-portfolio-of-mine/static/media/bootstrap-logo.0d55f027c927c1af342d.png",
     "index.html": "/a-react-portfolio-of-mine/index.html",
-    "main.3b34a00b.css.map": "/a-react-portfolio-of-mine/static/css/main.3b34a00b.css.map",
-    "main.ad8f086a.js.map": "/a-react-portfolio-of-mine/static/js/main.ad8f086a.js.map",
+    "main.060c67bb.css.map": "/a-react-portfolio-of-mine/static/css/main.060c67bb.css.map",
+    "main.cb3d293e.js.map": "/a-react-portfolio-of-mine/static/js/main.cb3d293e.js.map",
     "787.8c6b66da.chunk.js.map": "/a-react-portfolio-of-mine/static/js/787.8c6b66da.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3b34a00b.css",
-    "static/js/main.ad8f086a.js"
+    "static/css/main.060c67bb.css",
+    "static/js/main.cb3d293e.js"
   ]
 }
