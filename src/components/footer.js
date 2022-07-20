@@ -19,6 +19,13 @@ function Footer() {
             className="icon"
           />
         </a>
+        <a href="https://twitter.com/bubblesfishy22" target="_blank">
+          <img
+            src="https://img.icons8.com/color/48/000000/twitter.png"
+            alt="Twitter"
+            className="icon"
+          />
+        </a>
       </div>
       <p className="footer-info">
         &copy; Nathaniel Chan |{" "}
