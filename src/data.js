@@ -3,6 +3,7 @@ import techKeyThoughts from "./assets/images/tech-blog.jpg";
 import tripIt from "./assets/images/trip-it.jpg";
 import budgetTracker from "./assets/images/track-your-spending.jpg";
 import passwordGenerator from "./assets/images/password-generator.jpg";
+import noteTaker from "./assets/images/note-taker.jpg";
 
 export default [
   {
@@ -39,5 +40,12 @@ export default [
     image: passwordGenerator,
     github: "https://github.com/nchan22/password-generator",
     deploy: "https://nchan22.github.io/password-generator/",
+  },
+  {
+    id: 6,
+    name: "Note Taker",
+    image: noteTaker,
+    github: "https://github.com/nchan22/note-taker",
+    deploy: "https://nchan22-note-taker.herokuapp.com",
   },
 ];
