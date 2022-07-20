@@ -4,6 +4,7 @@ import tripIt from "./assets/images/trip-it.jpg";
 import budgetTracker from "./assets/images/track-your-spending.jpg";
 import passwordGenerator from "./assets/images/password-generator.jpg";
 import noteTaker from "./assets/images/note-taker.jpg";
+import weatherDashboard from "./assets/images/weather-dashboard.jpg";
 
 export default [
   {
@@ -47,5 +48,12 @@ export default [
     image: noteTaker,
     github: "https://github.com/nchan22/note-taker",
     deploy: "https://nchan22-note-taker.herokuapp.com",
+  },
+  {
+    id: 7,
+    name: "Weather Dashboard",
+    image: weatherDashboard,
+    github: "https://github.com/nchan22/weather-application",
+    deploy: "https://nchan22.github.io/weather-application/",
   },
 ];
