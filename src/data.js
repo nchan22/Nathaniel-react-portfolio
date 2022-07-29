@@ -1,4 +1,4 @@
-import leafItToMe from "./assets/images/leaf-it-to-me.jpg";
+import eyeSpy from "./assets/images/eye spy.png";
 import techKeyThoughts from "./assets/images/tech-blog.jpg";
 import tripIt from "./assets/images/trip-it.jpg";
 import budgetTracker from "./assets/images/track-your-spending.jpg";
@@ -9,10 +9,10 @@ import weatherDashboard from "./assets/images/weather-dashboard.jpg";
 export default [
   {
     id: 1,
-    name: "Leaf it to me",
-    image: leafItToMe,
-    github: "https://github.com/CaptainNate/captain-nates-crazy-project",
-    deploy: "",
+    name: "Eye Spy",
+    image: eyeSpy,
+    github: "https://github.com/CaptainNate/eye-spy",
+    deploy: "https://eye-spy-2022.herokuapp.com",
   },
   {
     id: 2,
