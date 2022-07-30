@@ -1,7 +1,7 @@
 {
   "name": "a-react-portfolio-of-mine",
   "version": "0.1.0",
-  "homepage": "https://nchan22.github.io/a-react-portfolio-of-mine",
+  "homepage": "https://nchan22.github.io/Nathaniel-react-portfolio/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
