@@ -1,6 +1,6 @@
 import React from "react";
 // Add a profile picture to the images
-import Avatar from "../assets/images/coming-soon.png";
+import Avatar from "../assets/images/mypicture.jpg";
 import UofTLogo from "../assets/images/uoft-logo2.png";
 import UWLogo from "../assets/images/uw_logo.png";
 import "../App.css";
@@ -17,7 +17,7 @@ const About = () => {
                   <img
                     className="avatar"
                     src={Avatar}
-                    alt="picture to be added"
+                    alt="Picture of Nathaniel Chan"
                   />
                 </div>
               </div>
