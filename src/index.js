@@ -6,11 +6,14 @@ import * as serviceWorker from "./serviceworker";
 import "bootstrap/dist/css/bootstrap.css";
 import ParticlesBg from "particles-bg";
 import reportWebVitals from "./reportWebVitals";
+import { HashRouter } from "react-router-dom";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
-    <App />
+    <HashRouter>
+      <App />
+    </HashRouter>
     <ParticlesBg type="square" bg={true} />
   </React.StrictMode>
 );
