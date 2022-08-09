@@ -1,5 +1,8 @@
 # Nathaniel Chan's Portfolio
 
+### Description:
+* A portfolio created to learn more about myself and the projects I've worked on, throughout my schooling and career as a Future Front End Developer
+
 ### Deployment Link: https://nchan22.github.io/a-react-portfolio-of-mine/
 
 ### Screenshot:
