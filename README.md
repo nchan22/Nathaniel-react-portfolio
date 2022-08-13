@@ -6,7 +6,7 @@
 ### Deployment Link: https://nchan22.github.io/a-react-portfolio-of-mine/
 
 ### Screenshot:
-![image](https://user-images.githubusercontent.com/98130524/180051485-c9e292ac-1e6e-403f-bb28-fb8269916f99.png)
+![image](https://user-images.githubusercontent.com/98130524/184468421-67829a5f-49bc-4bd6-97d0-591943556cf2.png)
 
 ### Technologies Used:
 * HTML
