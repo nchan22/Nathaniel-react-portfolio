@@ -28,7 +28,8 @@ const About = () => {
                     A Recreation Therapist turned Coder with a love for
                     creativity. With a focus on front-end, the endless growth
                     and possibilities of front end design is always an
-                    intriguing aspect, where HTML, CSS, JavaScript and React are
+                    intriguing aspect, where HTML, CSS, JavaScript, Responsive
+                    Design, Bootstrap, Express, MySQL, React, and many more are
                     skills learned.
                   </p>
                 </div>
